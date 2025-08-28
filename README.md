@@ -1,6 +1,7 @@
 # awesomeProject
 
 ##84
+
 1、项目名称：airi - 本地数字伴侣
 - GitHub 链接：https://github.com/moeru-ai/airi
 2、项目名称：Archon - AI 编程助手的指挥中心
@@ -15,6 +16,7 @@
 - GitHub 链接：https://github.com/PixiEditor/PixiEditor
 
 ##83
+
 1、项目名称：umami - Google Analytics替代
 - GitHub 链接：https://github.com/umami-software/umami
 2、项目名称：Pearcleaner - Mac应用清理工具
@@ -27,6 +29,7 @@
 - GitHub 链接：https://github.com/fish2018/pansou
 
 ##82
+
 1、项目名称：gpt-oss - OpenAI最新开源模型
 - GitHub 链接：https://github.com/openai/gpt-oss
 2、项目名称：ten-vad - 实时语音活动检测工具
