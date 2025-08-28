@@ -2,18 +2,18 @@
 
 ##84
 
-1、项目名称：airi - 本地数字伴侣
-- GitHub 链接：https://github.com/moeru-ai/airi
-2、项目名称：Archon - AI 编程助手的指挥中心
-- GitHub 链接：https://github.com/coleam00/Archon
-3、项目名称：fastapi_mcp - FastAPI转MCP 工具
-- GitHub 链接：https://github.com/tadata-org/fastapi_mcp
+-1、项目名称：airi - 本地数字伴侣
+ GitHub 链接：https://github.com/moeru-ai/airi
+-2、项目名称：Archon - AI 编程助手的指挥中心
+ GitHub 链接：https://github.com/coleam00/Archon
+-3、项目名称：fastapi_mcp - FastAPI转MCP 工具
+ GitHub 链接：https://github.com/tadata-org/fastapi_mcp
 - 4、项目名称：windhawk - windows定制平台
-- GitHub 链接：https://github.com/ramensoftware/windhawk
-5、项目名称：fuck-u-code - 屎山代码鉴定器
-- GitHub 链接：https://github.com/Done-0/fuck-u-code
-6、项目名称：PixiEditor - 通用 2D 编辑器
-- GitHub 链接：https://github.com/PixiEditor/PixiEditor
+ GitHub 链接：https://github.com/ramensoftware/windhawk
+-5、项目名称：fuck-u-code - 屎山代码鉴定器
+ GitHub 链接：https://github.com/Done-0/fuck-u-code
+-6、项目名称：PixiEditor - 通用 2D 编辑器
+ GitHub 链接：https://github.com/PixiEditor/PixiEditor
 
 ##83
 
